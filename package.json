@@ -4,12 +4,9 @@
   "description": "Order properties of an object based on a given order",
   "main": "src/index.js",
   "scripts": {
-    "start": "webpack serve --open",
     "build": "webpack",
     "lint": "eslint .",
-    "test": "jest --coverage",
-    "format": "prettier --write \"C:\\projects\\ajs-username-validator\\dist\\*.js\"",
-    "lint-fix": "eslint --fix \"C:\\projects\\ajs-username-validator\\dist\\*.js\""
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "Levoshko Tatiana",
